@@ -1,4 +1,6 @@
 # PRAKTIKUM 3 - CSS DASAR
+Nama : Asti bunga diyanti 
+Kelas : i251D
 
 ## Tujuan
 1. Memahami konsep dasar CSS dalam pembuatan halaman web.

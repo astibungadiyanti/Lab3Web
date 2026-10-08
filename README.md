@@ -40,9 +40,6 @@ Pada praktikum ini saya mempelajari cara menerapkan CSS pada HTML untuk mengatur
 
 
 # Jawaban Pertanyaan dan Tugas
-
-## Praktikum 3 – CSS Dasar
-
 ### 1. Eksperimen Mengubah dan Menambah Properti CSS
 
 Eksperimen dilakukan dengan mengubah dan menambahkan beberapa properti serta nilai pada CSS. Tujuannya untuk melihat perubahan tampilan pada halaman web. Perubahan tersebut dapat berupa warna tulisan, warna latar belakang, ukuran tulisan, jenis huruf, posisi teks, dan tampilan elemen lainnya.
@@ -63,13 +60,13 @@ Jika CSS Internal, CSS Eksternal, dan Inline CSS diterapkan pada elemen yang sam
 
 Sebagai contoh, apabila warna teks suatu paragraf diatur berbeda melalui CSS Internal, CSS Eksternal, dan Inline CSS, maka warna yang diberikan melalui Inline CSS akan menjadi tampilan yang digunakan pada browser.
 
-Jadi, dari ketiga cara tersebut, **Inline CSS memiliki prioritas lebih tinggi** dalam kondisi normal. Modul menjelaskan bahwa CSS Internal ditulis di dalam dokumen HTML, CSS Eksternal ditulis pada file CSS terpisah, sedangkan Inline CSS ditulis langsung sebagai atribut pada tag HTML.
+Jadi, dari ketiga cara tersebut, Inline CSS memiliki prioritas lebih tinggi dalam kondisi normal. Modul menjelaskan bahwa CSS Internal ditulis di dalam dokumen HTML, CSS Eksternal ditulis pada file CSS terpisah, sedangkan Inline CSS ditulis langsung sebagai atribut pada tag HTML.
 
 ### 4. Prioritas ID dan Class Selector
 
-Jika suatu elemen HTML memiliki ID dan Class sekaligus, kemudian kedua selector tersebut mempunyai pengaturan CSS yang berbeda, maka **ID Selector memiliki prioritas lebih tinggi daripada Class Selector**.
+Jika suatu elemen HTML memiliki ID dan Class sekaligus, kemudian kedua selector tersebut mempunyai pengaturan CSS yang berbeda, maka **ID Selector memiliki prioritas lebih tinggi daripada Class Selector.
 
-Sebagai contoh, pada sebuah paragraf yang memiliki ID `paragraf-1` dan Class `text-paragraf`, apabila ID memberikan warna merah sedangkan Class memberikan warna biru, maka warna yang akan ditampilkan adalah **merah** karena ID mempunyai prioritas yang lebih tinggi.
+Sebagai contoh, pada sebuah paragraf yang memiliki ID `paragraf-1` dan Class `text-paragraf`, apabila ID memberikan warna merah sedangkan Class memberikan warna biru, maka warna yang akan ditampilkan adalah merah karena ID mempunyai prioritas yang lebih tinggi.
 
 Jadi, urutan prioritas dalam kasus tersebut adalah:
 

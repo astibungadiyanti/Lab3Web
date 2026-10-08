@@ -39,6 +39,7 @@ Setelah seluruh kode selesai dibuat, file disimpan dan dibuka melalui browser. K
 Pada praktikum ini saya mempelajari cara menerapkan CSS pada HTML untuk mengatur tampilan halaman web. Saya juga memahami penggunaan CSS Internal, Inline CSS, CSS Eksternal, ID Selector, dan Class Selector.
 
 
+
 # Jawaban Pertanyaan dan Tugas
 ### 1. Eksperimen Mengubah dan Menambah Properti CSS
 
@@ -56,7 +57,7 @@ Jadi, h1 memiliki cakupan yang lebih umum, sedangkan intro h1 lebih khusus karen
 
 ### 3. CSS Internal, Eksternal, dan Inline
 
-Jika CSS Internal, CSS Eksternal, dan Inline CSS diterapkan pada elemen yang sama, maka **Inline CSS yang akan ditampilkan** karena aturan tersebut dituliskan langsung pada elemen HTML.
+Jika CSS Internal, CSS Eksternal, dan Inline CSS diterapkan pada elemen yang sama, maka Inline CSS yang akan ditampilkan** karena aturan tersebut dituliskan langsung pada elemen HTML.
 
 Sebagai contoh, apabila warna teks suatu paragraf diatur berbeda melalui CSS Internal, CSS Eksternal, dan Inline CSS, maka warna yang diberikan melalui Inline CSS akan menjadi tampilan yang digunakan pada browser.
 
